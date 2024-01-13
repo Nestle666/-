@@ -1,6 +1,6 @@
 #pragma once
 
-
+#define _CRT_SECURE_NO_WARNINGS
 
 #ifndef __MYSQL_H
 #define __MYSQL_H
@@ -108,7 +108,7 @@ private:
 
 	MYSQL_BIND params_in[MAXPARAMS];  // 输入参数。
 	unsigned long params_in_length[MAXPARAMS];
-	my_bool params_in_is_null[MAXPARAMS];
+	bool params_in_is_null[MAXPARAMS];
 	enum enum_field_types params_in_buffer_type[MAXPARAMS];
 	MYSQL_BIND params_out[MAXPARAMS]; // 输出参数。
 	unsigned maxbindin;

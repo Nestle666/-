@@ -1,0 +1,10 @@
+﻿  _mysql.cpp
+C:\Users\朱愿\Desktop\数据库\-\乐队系统\_mysql.cpp(333,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\朱愿\Desktop\数据库\-\乐队系统\_mysql.cpp(347,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\朱愿\Desktop\数据库\-\乐队系统\_mysql.cpp(377,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\朱愿\Desktop\数据库\-\乐队系统\_mysql.cpp(426,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\朱愿\Desktop\数据库\-\乐队系统\_mysql.cpp(450,51): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\朱愿\Desktop\数据库\-\乐队系统\_mysql.cpp(705,25): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\朱愿\Desktop\数据库\-\乐队系统\_mysql.cpp(718,46): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\朱愿\Desktop\数据库\-\乐队系统\_mysql.cpp(731,29): warning C4244: “=”: 从“uint64_t”转换到“unsigned long”，可能丢失数据
+  乐队系统.vcxproj -> C:\Users\朱愿\Desktop\数据库\-\x64\Debug\乐队系统.exe
